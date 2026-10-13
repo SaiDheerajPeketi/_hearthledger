@@ -1,0 +1,47 @@
+{
+  "state": "public-candidate-not-deployed",
+  "host": "hearthledger.blackandblue.co.in",
+  "deploy_files": {
+    "index.html": {
+      "bytes": 10838,
+      "sha256": "7881f035a03689f3a80f6e5e205923887a8d757c5679c593534068a7891fb2c1"
+    },
+    "support.html": {
+      "bytes": 6279,
+      "sha256": "b821db5f9c5cc78d6f4637cbf04f9431c109823a9f15b66bf277089582986ef3"
+    },
+    "styles.css": {
+      "bytes": 4287,
+      "sha256": "5f8ba4daedf4b535e3656a2669eb77a48e54d9b443c884c4b143fe27499c9708"
+    },
+    "CNAME": {
+      "bytes": 32,
+      "sha256": "5161c4e6e8ac602368a965116cc696a599fdbcd709a60ee74ed96747ee4835a0"
+    },
+    "icon.svg": {
+      "bytes": 467,
+      "sha256": "082af63612992c21c4c107c3dbc1695b3d49ac10fd4f3d1af94900e9e9d61502"
+    },
+    "reader-sans.ttf": {
+      "bytes": 60368,
+      "sha256": "d41b3ac91cb1d608843bb861050528c02a6474cc7e8a22f7b7094926edfc5a41"
+    },
+    "reader-serif.ttf": {
+      "bytes": 63848,
+      "sha256": "69b4f9d5cba3a3a311faade5fa5656f64aef63a90d35ced04c60e6b3039026ed"
+    },
+    "font-notices.txt": {
+      "bytes": 8925,
+      "sha256": "209306082f50ec31cc179be3cd7bbdc1a2506a30031fea841dd2ba4731bf0ee0"
+    }
+  },
+  "sources": {
+    "docs/privacy-policy-public.md": "f8a77967bcf6f06dbdae56f455e07abc2879df167ffcba25433c1482d8c9d730",
+    "docs/support-page-public.md": "df58888496707bd08e84c9d9d5f14132ae5554732a77db390928f725e1ca5d55",
+    "docs/eight-app-dns-and-privacy-2026-10-01.md": "b028dd554653dc3b96a3505e81a7d501c82da1fd0e3b21091c130373d3ae3922",
+    "app/src/main/java/com/blackandblue/hearthledger/platform/Telemetry.kt": "4764ce0a1ffb06c7a7fd59f8ee05d3db83fcee0a8865b910e564f6d3856a5bd4",
+    "app/src/main/java/com/blackandblue/hearthledger/platform/Billing.kt": "f0e81378e2e534ef0ba0d95332090099500c5cd9817f82a6f0627e3ea0cd7f4a",
+    "app/src/main/java/com/blackandblue/hearthledger/platform/Ocr.kt": "92dbfc7b7809a28fecf7fc8be65e3f22cd968bc06818a03f80eaa78f97bd05f2",
+    "store-assets/prepare_privacy_site.py": "069433ba374600265552c015654a4e311799efbd7ff87cee73fca636abaf442d"
+  }
+}
